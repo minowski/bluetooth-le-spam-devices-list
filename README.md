@@ -148,3 +148,100 @@ bluetooth le spam list
     29: "TV Color Balance"
     29: 004c 
         04042a0000000f05c11e604c95000010000000
+## Android
+
+      1)Pixel Buds
+      Advertising data
+
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ 92BBBD
+      Tx Power Level
+      Service UUID ➔ FE2C
+
+      2)Google Pixel Buds
+      Advertising data
+
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ 000006
+      Tx Power Level
+      Service UUID ➔ FE2C
+
+
+
+      3)JBL Flip 6
+      Advertising data
+
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ 821F66
+      Tx Power Level
+      Service UUID ➔ FE2C
+
+      
+      4)JBL Buds Pro
+      Advertising data
+      
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ F52494
+      Tx Power Level
+      Service UUID ➔ FE2C
+
+      5)JBL Live 300TWS
+      Advertising data
+      
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ 718FA4
+      Tx Power Level
+      Service UUID ➔ FE2C
+      
+      
+      6)Sony XM5
+      Advertising data
+      
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ D446A7
+      Tx Power Level
+      Service UUID ➔ FE2C
+      
+      7)Bose NC 700
+      Advertising data
+      
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ CD8256
+      Tx Power Level
+      Service UUID ➔ FE2C
+      
+      
+      8)Bose QuietComfort 35 II
+      Advertising data
+      
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ 0000F0
+      Tx Power Level
+      Service UUID ➔ FE2C
+      
+      9)Razer Hammerhead TWS
+      Advertising data
+      
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ 0E30C3
+      Tx Power Level
+      Service UUID ➔ FE2C
+      
+      
+      10)LG HBS-835S
+      Advertising data
+      
+      Service DATA:
+      UUID ➔ FE2C
+      DATA ➔ 0003F0
+      Tx Power Level
+      Service UUID ➔ FE2C
