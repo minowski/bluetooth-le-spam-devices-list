@@ -148,7 +148,7 @@ bluetooth le spam list
     29: "TV Color Balance"
     29: 004c 
         04042a0000000f05c11e604c95000010000000
-## Android
+## Android Fast Pair
 
       1)Pixel Buds
       Advertising data
