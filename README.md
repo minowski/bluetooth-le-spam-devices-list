@@ -1,7 +1,7 @@
 # bluetooth-le-spam-devices-list
 
-   1: "Airpods",
-
+      1: "Airpods"
+    
     1:  004c
        071907022075aa3001000045121212000000000000000000000000
 
